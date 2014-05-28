@@ -1,0 +1,7 @@
+﻿  Stamping x64\Win7Debug\MyDriver2.inf [Version] section with DriverVer=05/28/2014,16.58.15.397
+  Done Adding Additional Store
+  
+  Number of errors: 1
+  
+SIGNTASK : SignTool error : File not found: C:\Users\admin\documents\visual studio 2012\Projects\MyDriver2\x64\Win7Debug\MyDriver2.sys
+  

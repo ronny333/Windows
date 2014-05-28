@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Windows Kits\8.0\build\WindowsDriver8.0.common.targets(1347,5): error MSB3030: Could not copy the file "C:\Users\admin\documents\visual studio 2012\Projects\MyDriver2\x64\Win7Debug\MyDriver2.sys" because it was not found.
